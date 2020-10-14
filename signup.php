@@ -17,7 +17,7 @@
   }
   else{
     echo "not signed up";
-    header('Location: sign_err.html');
+   // header('Location: sign_err.html'); Create A page sign up error 
       
   }
 ?>
